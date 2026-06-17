@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cheap Broadway Ticket Finder</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <main class="app">
+    <header>
+      <div>
+        <h1>Cheap Broadway Ticket Finder</h1>
+        <p>NYC + DC tickets, ranked lowest price first.</p>
+      </div>
+      <div class="updated" id="updated">Loading...</div>
+    </header>
+
+    <section class="filters">
+      <label>
+        City
+        <select id="city">
+          <option value="all">NYC + DC</option>
+          <option value="nyc">NYC</option>
+          <option value="dc">DC</option>
+        </select>
+      </label>
+
+      <label>
+        Date
+        <input type="date" id="date"/>
+      </label>
+
+      <label>
+        Show
+        <input type="search" id="search" placeholder="Hamilton, Wicked, etc."/>
+      </label>
+    </section>
+
+    <section class="summary">
+      <strong id="count">0</strong> ticket options found
+    </section>
+
+    <section id="results" class="results"></section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
