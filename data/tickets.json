@@ -1,4 +1,41 @@
 {
-  "updated_at": "Not refreshed yet",
-  "tickets": []
+  "updated_at": "2026-06-17 17:32 UTC",
+  "tickets": [
+    {
+      "show": "John Cameron Mitchell - Hedwig 25th Anniversary Movie Tour",
+      "city": "dc",
+      "venue": "Howard Theatre",
+      "date": "2026-09-29",
+      "time": "19:00",
+      "price": 30.0,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketweb.com/event/john-cameron-mitchell-howard-theatre-tickets/14786023",
+      "image": "https://s1.ticketm.net/dam/a/890/ba987058-54c4-443a-b1f3-261c51477890_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+    },
+    {
+      "show": "Rock Never Dies",
+      "city": "nyc",
+      "venue": "Hard Rock Cafe - NYC",
+      "date": "2026-06-19",
+      "time": "19:30",
+      "price": 147.83,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketweb.com/event/rock-never-dies-hard-rock-cafe-tickets/14861713",
+      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+    },
+    {
+      "show": "Rock Never Dies",
+      "city": "nyc",
+      "venue": "Hard Rock Cafe - NYC",
+      "date": "2026-06-20",
+      "time": "19:30",
+      "price": 147.83,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketweb.com/event/rock-never-dies-hard-rock-cafe-tickets/14861753",
+      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+    }
+  ]
 }
