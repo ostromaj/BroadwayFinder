@@ -21,10 +21,18 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests
+      - name: Show files
+        run: ls -la
 
-      - name: Fetch Ticketmaster tickets
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests beautifulsoup4 lxml
+
+      - name: Test bs4 install
+        run: python -c "from bs4 import BeautifulSoup; print('bs4 works')"
+
+      - name: Fetch tickets
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
         run: python scripts/fetch_tickets.py
@@ -34,5 +42,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/tickets.json
-          git commit -m "Refresh Ticketmaster tickets" || echo "No changes to commit"
+          git commit -m "Refresh ticket data" || echo "No changes to commit"
           git push
