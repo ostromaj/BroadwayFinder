@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-06-17 17:32 UTC",
+  "updated_at": "2026-06-17 17:35 UTC",
   "tickets": [
-    {
-      "show": "John Cameron Mitchell - Hedwig 25th Anniversary Movie Tour",
-      "city": "dc",
-      "venue": "Howard Theatre",
-      "date": "2026-09-29",
-      "time": "19:00",
-      "price": 30.0,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketweb.com/event/john-cameron-mitchell-howard-theatre-tickets/14786023",
-      "image": "https://s1.ticketm.net/dam/a/890/ba987058-54c4-443a-b1f3-261c51477890_TABLET_LANDSCAPE_LARGE_16_9.jpg"
-    },
     {
       "show": "Rock Never Dies",
       "city": "nyc",
