@@ -13,26 +13,18 @@ API_KEY = os.getenv("TICKETMASTER_API_KEY")
 DAYS_AHEAD = 10
 
 SEARCHES = [
-    # Broad NYC searches
-    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Broadway"},
-    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Musical"},
-    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Theatre"},
-
-    # Specific major NYC shows
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Hamilton"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Wicked"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "The Lion King"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Moulin Rouge"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Hadestown"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Chicago"},
-    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Book of Mormon"},
     {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Aladdin"},
-
-    # DC searches
+    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Broadway"},
+    {"city": "nyc", "cityName": "New York", "stateCode": "NY", "keyword": "Musical"},
+    {"city": "dc", "cityName": "Washington", "stateCode": "DC", "keyword": "Kennedy Center"},
     {"city": "dc", "cityName": "Washington", "stateCode": "DC", "keyword": "Musical"},
     {"city": "dc", "cityName": "Washington", "stateCode": "DC", "keyword": "Theatre"},
-    {"city": "dc", "cityName": "Washington", "stateCode": "DC", "keyword": "Kennedy Center"},
-    {"city": "dc", "cityName": "Washington", "stateCode": "DC", "keyword": "Broadway"},
 ]
 
 def tm_time(dt):
@@ -40,19 +32,13 @@ def tm_time(dt):
 
 def get_price(event):
     ranges = event.get("priceRanges") or []
-    prices = []
-
-    for p in ranges:
-        if p.get("min") is not None:
-            prices.append(float(p["min"]))
-
+    prices = [float(p["min"]) for p in ranges if p.get("min") is not None]
     return min(prices) if prices else None
 
 def get_image(event):
     images = event.get("images") or []
     if not images:
         return ""
-
     images = sorted(images, key=lambda x: x.get("width", 0), reverse=True)
     return images[0].get("url", "")
 
@@ -78,10 +64,8 @@ def fetch_ticketmaster(search):
         "sort": "date,asc",
     }
 
-    print("\nSEARCH:", search)
     response = requests.get(url, params=params, timeout=25)
-    print("Status:", response.status_code)
-    print("URL:", response.url)
+    print("SEARCH:", search["keyword"], search["cityName"], response.status_code)
 
     if response.status_code != 200:
         print(response.text[:1000])
@@ -89,21 +73,22 @@ def fetch_ticketmaster(search):
 
     data = response.json()
     events = data.get("_embedded", {}).get("events", [])
-    print("Events returned:", len(events))
 
     tickets = []
 
     for event in events:
         price = get_price(event)
-
-        # Ticketmaster often returns events but no public price range.
-        # We skip those because you asked for real live prices only.
-        if price is None:
-            print("Skipped no price:", event.get("name"))
-            continue
-
         dates = event.get("dates", {}).get("start", {})
         venue = (event.get("_embedded", {}).get("venues") or [{}])[0]
+
+        if price is None:
+            price_display = "Check live price"
+            sort_price = 999999
+            has_live_api_price = False
+        else:
+            price_display = f"${price:.0f}"
+            sort_price = price
+            has_live_api_price = True
 
         tickets.append({
             "show": event.get("name", "Unknown Show"),
@@ -112,6 +97,9 @@ def fetch_ticketmaster(search):
             "date": dates.get("localDate", ""),
             "time": (dates.get("localTime") or "")[:5],
             "price": price,
+            "price_display": price_display,
+            "sort_price": sort_price,
+            "has_live_api_price": has_live_api_price,
             "section": "Best Available",
             "source": "Ticketmaster",
             "url": event.get("url", ""),
@@ -131,7 +119,6 @@ def dedupe(tickets):
             t["venue"].lower(),
             t["date"],
             t["time"],
-            t["price"],
         )
 
         if key not in seen:
@@ -141,22 +128,22 @@ def dedupe(tickets):
     return output
 
 def main():
-    all_tickets = []
+    tickets = []
 
     for search in SEARCHES:
-        all_tickets.extend(fetch_ticketmaster(search))
+        tickets.extend(fetch_ticketmaster(search))
 
-    all_tickets = dedupe(all_tickets)
-    all_tickets.sort(key=lambda x: float(x["price"]))
+    tickets = dedupe(tickets)
+    tickets.sort(key=lambda x: (x["sort_price"], x["date"], x["time"]))
 
     payload = {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
         "days_ahead": DAYS_AHEAD,
-        "tickets": all_tickets,
+        "tickets": tickets,
     }
 
     OUTFILE.write_text(json.dumps(payload, indent=2))
-    print(f"\nWrote {len(all_tickets)} live priced tickets to {OUTFILE}")
+    print(f"Wrote {len(tickets)} Ticketmaster events to {OUTFILE}")
 
 if __name__ == "__main__":
     main()
