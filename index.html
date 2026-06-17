@@ -1,49 +1,231 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Cheap Broadway Ticket Finder</title>
-  <link rel="stylesheet" href="style.css"/>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BroadwayFinder</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-  <main class="app">
-    <header>
-      <div>
-        <h1>Cheap Broadway Ticket Finder</h1>
-        <p>NYC + DC tickets, ranked lowest price first.</p>
-      </div>
-      <div class="updated" id="updated">Loading...</div>
-    </header>
 
-    <section class="filters">
-      <label>
-        City
-        <select id="city">
-          <option value="all">NYC + DC</option>
-          <option value="nyc">NYC</option>
-          <option value="dc">DC</option>
-        </select>
-      </label>
+<div class="background-glow glow1"></div>
+<div class="background-glow glow2"></div>
 
-      <label>
-        Date
-        <input type="date" id="date"/>
-      </label>
+<header class="hero">
 
-      <label>
-        Show
-        <input type="search" id="search" placeholder="Hamilton, Wicked, etc."/>
-      </label>
-    </section>
+    <div class="hero-content">
 
-    <section class="summary">
-      <strong id="count">0</strong> ticket options found
-    </section>
+        <div class="hero-left">
+            <div class="hero-tag">
+                🎭 NYC + DC • Updated Every 6 Hours
+            </div>
 
-    <section id="results" class="results"></section>
-  </main>
+            <h1>
+                Find The Cheapest Broadway Tickets
+            </h1>
 
-  <script src="script.js"></script>
+            <p>
+                BroadwayFinder searches theater ticket listings and ranks
+                the lowest prices first so you can find incredible deals fast.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="#ticket-board" class="btn-primary">
+                    View Tickets
+                </a>
+
+                <button id="todayButton" class="btn-secondary">
+                    Today's Shows
+                </button>
+            </div>
+        </div>
+
+        <div class="hero-right">
+            <div class="featured-ticket" id="featuredTicket">
+
+                <div class="featured-label">
+                    Cheapest Ticket Right Now
+                </div>
+
+                <div class="featured-loading">
+                    Loading...
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</header>
+
+<section class="filters-section">
+
+    <div class="section-header">
+
+        <div>
+            <h2>🎟 Ticket Board</h2>
+            <p id="lastUpdated">
+                Loading latest prices...
+            </p>
+        </div>
+
+        <div class="results-pill">
+            <span id="ticketCount">0</span> Results
+        </div>
+
+    </div>
+
+    <div class="filters">
+
+        <div class="filter">
+            <label>City</label>
+
+            <select id="city">
+                <option value="all">NYC + DC</option>
+                <option value="nyc">NYC</option>
+                <option value="dc">DC</option>
+            </select>
+        </div>
+
+        <div class="filter">
+            <label>Date</label>
+            <input type="date" id="date">
+        </div>
+
+        <div class="filter search-filter">
+            <label>Search Shows</label>
+            <input
+                type="search"
+                id="search"
+                placeholder="Hamilton, Wicked, Lion King..."
+            >
+        </div>
+
+    </div>
+
+</section>
+
+<section class="stats">
+
+    <div class="stat-card">
+        <div class="stat-number" id="lowestPrice">
+            --
+        </div>
+        <div class="stat-label">
+            Lowest Ticket
+        </div>
+    </div>
+
+    <div class="stat-card">
+        <div class="stat-number" id="averagePrice">
+            --
+        </div>
+        <div class="stat-label">
+            Average Price
+        </div>
+    </div>
+
+    <div class="stat-card">
+        <div class="stat-number" id="showCount">
+            --
+        </div>
+        <div class="stat-label">
+            Shows Found
+        </div>
+    </div>
+
+</section>
+
+<section id="ticket-board">
+
+    <div id="results" class="results-grid">
+
+        <!-- Cards inserted here -->
+
+    </div>
+
+</section>
+
+<template id="ticketTemplate">
+
+    <div class="ticket-card">
+
+        <div class="ticket-image-container">
+
+            <img
+                class="ticket-image"
+                src=""
+                alt=""
+            >
+
+            <div class="ticket-price-badge">
+                $99
+            </div>
+
+        </div>
+
+        <div class="ticket-content">
+
+            <a
+                href="#"
+                class="ticket-title"
+                target="_blank"
+            >
+                Show Name
+            </a>
+
+            <div class="ticket-meta">
+                Venue
+            </div>
+
+            <div class="ticket-details">
+
+                <span class="tag city-tag">
+                    NYC
+                </span>
+
+                <span class="tag">
+                    Orchestra
+                </span>
+
+                <span class="tag">
+                    7:00 PM
+                </span>
+
+            </div>
+
+            <div class="ticket-footer">
+
+                <div class="ticket-source">
+                    Ticketmaster
+                </div>
+
+                <a
+                    href="#"
+                    class="view-button"
+                    target="_blank"
+                >
+                    View Deal →
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</template>
+
+<footer>
+
+    <div class="footer-content">
+        BroadwayFinder • Built by Joseph Ostroman
+    </div>
+
+</footer>
+
+<script src="script.js"></script>
+
 </body>
 </html>
