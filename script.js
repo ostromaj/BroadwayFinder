@@ -232,7 +232,7 @@ function render() {
 }
 
 async function loadTickets() {
-    dateEl.value = todayISO();
+    dateEl.value = "";
 
     try {
         const response = await fetch("data/tickets.json?cacheBust=" + Date.now());
