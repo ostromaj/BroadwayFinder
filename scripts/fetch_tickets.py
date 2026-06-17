@@ -1,6 +1,6 @@
 import json
 import os
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import requests
@@ -11,6 +11,8 @@ OUTFILE = DATA_DIR / "tickets.json"
 
 API_KEY = os.getenv("TICKETMASTER_API_KEY")
 
+DAYS_AHEAD = 10
+
 SEARCHES = [
     {"city": "nyc", "keyword": "Broadway", "stateCode": "NY"},
     {"city": "nyc", "keyword": "Musical", "stateCode": "NY"},
@@ -19,6 +21,9 @@ SEARCHES = [
     {"city": "dc", "keyword": "Theatre", "stateCode": "DC"},
     {"city": "dc", "keyword": "Kennedy Center", "stateCode": "DC"},
 ]
+
+def ticketmaster_time(dt):
+    return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 def get_price(event):
     ranges = event.get("priceRanges") or []
@@ -36,6 +41,9 @@ def fetch_ticketmaster(search):
     if not API_KEY:
         raise RuntimeError("Missing TICKETMASTER_API_KEY GitHub secret.")
 
+    now = datetime.now(timezone.utc)
+    end = now + timedelta(days=DAYS_AHEAD)
+
     url = "https://app.ticketmaster.com/discovery/v2/events.json"
 
     params = {
@@ -44,11 +52,11 @@ def fetch_ticketmaster(search):
         "stateCode": search["stateCode"],
         "keyword": search["keyword"],
         "classificationName": "Theatre",
+        "startDateTime": ticketmaster_time(now),
+        "endDateTime": ticketmaster_time(end),
         "size": 200,
         "sort": "date,asc",
     }
-
-    print("Searching:", search)
 
     response = requests.get(url, params=params, timeout=25)
     print("Status:", response.status_code)
@@ -66,7 +74,6 @@ def fetch_ticketmaster(search):
     for event in events:
         price = get_price(event)
 
-        # Skip events without a real listed price.
         if price is None:
             continue
 
