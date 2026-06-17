@@ -42,33 +42,35 @@ def get_image(event):
     return images[0].get("url", "")
 
 def extract_page_prices(url):
-    """
-    Attempts to find dollar amounts from normal returned HTML.
-    This will only work if the prices are actually present in the page HTML.
-    It will not work for prices loaded later by JavaScript.
-    """
     try:
         headers = {
-            "User-Agent": "BroadwayFinder personal ticket research tool"
+            "User-Agent": "Mozilla/5.0"
         }
 
         response = requests.get(url, headers=headers, timeout=20)
 
-        if response.status_code != 200:
-            return None, None, 0
+        print("\nChecking page:", url)
+        print("Page status:", response.status_code)
+        print("HTML length:", len(response.text))
+        print("Contains dollar sign?", "$" in response.text)
+        print("Contains FMEZZ?", "FMEZZ" in response.text)
+        print("Contains menuitem?", "menuitem" in response.text)
 
-        soup = BeautifulSoup(response.text, "html.parser")
-        text = soup.get_text(" ", strip=True)
+        matches = re.findall(
+            r"\$\d+(?:,\d{3})*(?:\.\d{2})?",
+            response.text
+        )
 
-        matches = re.findall(r"\$\d+(?:,\d{3})*(?:\.\d{2})?", text)
+        print("Prices found:", matches[:20])
 
         prices = []
+
         for m in matches:
             try:
                 value = float(m.replace("$", "").replace(",", ""))
                 if 5 <= value <= 5000:
                     prices.append(value)
-            except ValueError:
+            except:
                 pass
 
         if not prices:
@@ -77,9 +79,9 @@ def extract_page_prices(url):
         return min(prices), max(prices), len(prices)
 
     except Exception as e:
-        print("Page price check failed:", url, e)
+        print("Page price check failed:", e)
         return None, None, 0
-
+        
 def fetch_ticketmaster(search):
     if not API_KEY:
         raise RuntimeError("Missing TICKETMASTER_API_KEY GitHub secret.")
