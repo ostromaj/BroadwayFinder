@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22 16:23 UTC",
+  "updated_at": "2026-06-22 20:30 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -2330,6 +2330,74 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-aj7",
       "image": "https://s1.ticketm.net/dam/a/5da/a33e1fe8-c17d-4d1e-bdc1-327d199f45da_SOURCE"
+    },
+    {
+      "show": "Moulin Rouge (Touring)",
+      "city": "dc",
+      "venue": "Kennedy Center - Opera House",
+      "date": "2026-07-02",
+      "time": "13:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7_obg",
+      "image": "https://s1.ticketm.net/dam/a/3e9/2527a208-8c58-41a0-8e1d-aea730c513e9_SOURCE"
+    },
+    {
+      "show": "Chicago",
+      "city": "nyc",
+      "venue": "Ambassador Theatre",
+      "date": "2026-07-02",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/chicago-new-york-new-york-07-02-2026/event/Z1r9uZruZqGZ17J6QK",
+      "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
+    },
+    {
+      "show": "Chicago - The Musical",
+      "city": "nyc",
+      "venue": "Ambassador Theatre-NY",
+      "date": "2026-07-02",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x3r3",
+      "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
+    },
+    {
+      "show": "Bluey's Big Play - The Stage Show",
+      "city": "dc",
+      "venue": "Kennedy Center - Eisenhower Theater",
+      "date": "2026-07-02",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7jfpo",
+      "image": "https://s1.ticketm.net/dam/a/4d4/d963b745-c842-4a74-8678-58e1508774d4_SOURCE"
     }
   ]
 }
