@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-06-30 13:50 UTC",
+  "updated_at": "2026-06-30 19:28 UTC",
   "days_ahead": 10,
   "tickets": [
-    {
-      "show": "Wicked (NY)",
-      "city": "nyc",
-      "venue": "Gershwin Theatre",
-      "date": "2026-06-30",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/wicked-ny-new-york-new-york-06-30-2026/event/Z1r9uZrrZbpZ1AvpKAa",
-      "image": "https://s1.ticketm.net/dam/a/963/bdfc3e57-f001-4729-9424-53d9ad83c963_SOURCE"
-    },
     {
       "show": "Hamilton (NY)",
       "city": "nyc",
