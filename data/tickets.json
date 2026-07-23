@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 13:19 UTC",
+  "updated_at": "2026-07-23 18:56 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -2075,6 +2075,74 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-08-01-2026/event/03006466F0F1152F",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Hamilton (NY)",
+      "city": "nyc",
+      "venue": "Richard Rodgers Theatre",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/hamilton-ny-new-york-new-york-08-02-2026/event/Z1r9uZrrZbpZ1AvjV86",
+      "image": "https://s1.ticketm.net/dam/a/00f/b9aebee0-d1cb-4a5c-8e0e-0ca03fd4d00f_SOURCE"
+    },
+    {
+      "show": "Hamilton",
+      "city": "nyc",
+      "venue": "Richard Rodgers Theatre-NY",
+      "date": "2026-08-02",
+      "time": "13:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qyfZ",
+      "image": "https://s1.ticketm.net/dam/a/00f/b9aebee0-d1cb-4a5c-8e0e-0ca03fd4d00f_SOURCE"
+    },
+    {
+      "show": "Chicago",
+      "city": "nyc",
+      "venue": "Ambassador Theatre",
+      "date": "2026-08-02",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/chicago-new-york-new-york-08-02-2026/event/Z1r9uZruZqGZ17J6_E",
+      "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
+    },
+    {
+      "show": "Chicago - The Musical",
+      "city": "nyc",
+      "venue": "Ambassador Theatre-NY",
+      "date": "2026-08-02",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kro",
+      "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     }
   ]
 }
