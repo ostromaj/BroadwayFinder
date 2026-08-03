@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 14:10 UTC",
+  "updated_at": "2026-08-03 19:15 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -17,6 +17,23 @@
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/wicked-ny-new-york-new-york-08-03-2026/event/Z1r9uZrrZbpZ1Av-A4M",
+      "image": "https://s1.ticketm.net/dam/a/963/bdfc3e57-f001-4729-9424-53d9ad83c963_SOURCE"
+    },
+    {
+      "show": "Wicked",
+      "city": "nyc",
+      "venue": "Gershwin Theatre",
+      "date": "2026-08-03",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZp0w",
       "image": "https://s1.ticketm.net/dam/a/963/bdfc3e57-f001-4729-9424-53d9ad83c963_SOURCE"
     },
     {
