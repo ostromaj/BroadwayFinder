@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 12:20 UTC",
+  "updated_at": "2026-08-21 18:19 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -137,23 +137,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-08-21-2026/event/030064AEEB331746",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-21",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-21-2026/event/1500637C1231D8AE",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     },
     {
       "show": "Chicago",
@@ -326,23 +309,6 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-22",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-22-2026/event/1500637C1233D8B4",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Chicago",
       "city": "nyc",
       "venue": "Ambassador Theatre",
@@ -460,23 +426,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-08-22-2026/event/030064AEEB341780",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-22",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-22-2026/event/1500637C1235D8B9",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     },
     {
       "show": "Wicked (NY)",
@@ -700,23 +649,6 @@
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-23",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-23-2026/event/1500637C1236D8C1",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Moulin Rouge",
       "city": "nyc",
       "venue": "Al Hirschfeld Theatre",
@@ -817,23 +749,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7-kr4",
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-23",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-23-2026/event/1500637C1238D8C7",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     },
     {
       "show": "Wicked (NY)",
@@ -1057,23 +972,6 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-25",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-25-2026/event/1500637C123AD8C9",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Hamilton (NY)",
       "city": "nyc",
       "venue": "Richard Rodgers Theatre",
@@ -1278,23 +1176,6 @@
       "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-26",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-26-2026/event/1500637C123CD8CC",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Moulin Rouge",
       "city": "nyc",
       "venue": "Al Hirschfeld Theatre",
@@ -1482,23 +1363,6 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-27",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-27-2026/event/1500637C123ED8CE",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Hamilton (NY)",
       "city": "nyc",
       "venue": "Richard Rodgers Theatre",
@@ -1633,23 +1497,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-08-28-2026/event/030064AEEB3617C7",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-28",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-28-2026/event/1500637C1240D8D1",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     },
     {
       "show": "Chicago",
@@ -1822,23 +1669,6 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-29",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-29-2026/event/1500637C1242D8D5",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Chicago",
       "city": "nyc",
       "venue": "Ambassador Theatre",
@@ -1956,23 +1786,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-08-29-2026/event/030064AEEB3717CD",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-29",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-29-2026/event/1500637C1243D8DA",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     },
     {
       "show": "Wicked (NY)",
@@ -2179,23 +1992,6 @@
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     },
     {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-30",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-30-2026/event/1500637C1245D8DF",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
-    },
-    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -2313,23 +2109,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x30v",
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
-    },
-    {
-      "show": "The Notebook (Touring)",
-      "city": "dc",
-      "venue": "The National Theatre",
-      "date": "2026-08-30",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/the-notebook-touring-washington-district-of-columbia-08-30-2026/event/1500637C1247D8E3",
-      "image": "https://s1.ticketm.net/dam/a/5cf/57d5e1ab-fa4f-451c-980f-574584a785cf_SOURCE"
     }
   ]
 }
