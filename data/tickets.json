@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08 15:29 UTC",
+  "updated_at": "2026-09-08 20:24 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -1837,6 +1837,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-09-17-2026/event/030064AEEB401808",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Ford's Theatre presents: Come From Away",
+      "city": "dc",
+      "venue": "Ford's Theatre",
+      "date": "2026-09-18",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xjJ",
+      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
     }
   ]
 }
