@@ -1,24 +1,7 @@
 {
-  "updated_at": "2026-09-18 15:18 UTC",
+  "updated_at": "2026-09-18 20:04 UTC",
   "days_ahead": 10,
   "tickets": [
-    {
-      "show": "Ford's Theatre presents: Come From Away",
-      "city": "dc",
-      "venue": "Ford's Theatre",
-      "date": "2026-09-18",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xjJ",
-      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
-    },
     {
       "show": "Hamilton (NY)",
       "city": "nyc",
