@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24 10:37 UTC",
+  "updated_at": "2026-09-24 16:00 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -18,23 +18,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketweb.com/event/john-cameron-mitchell-howard-theatre-tickets/14786023",
       "image": "https://s1.ticketm.net/dam/a/890/ba987058-54c4-443a-b1f3-261c51477890_TABLET_LANDSCAPE_LARGE_16_9.jpg"
-    },
-    {
-      "show": "Ford's Theatre presents: Come From Away",
-      "city": "dc",
-      "venue": "Ford's Theatre",
-      "date": "2026-09-24",
-      "time": "12:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xj0",
-      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
     },
     {
       "show": "Hamilton (NY)",
