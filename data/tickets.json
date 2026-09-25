@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25 16:01 UTC",
+  "updated_at": "2026-09-25 20:48 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -8,12 +8,12 @@
       "venue": "Howard Theatre",
       "date": "2026-09-29",
       "time": "19:00",
-      "price": 30.0,
-      "price_display": "$30.00",
+      "price": 61.54,
+      "price_display": "$61.54",
       "lowest_page_price": null,
       "highest_page_price": null,
       "prices_found_on_page": 0,
-      "sort_price": 30.0,
+      "sort_price": 61.54,
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketweb.com/event/john-cameron-mitchell-howard-theatre-tickets/14786023",
