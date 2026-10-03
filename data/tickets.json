@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 10:43 UTC",
+  "updated_at": "2026-10-03 15:18 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -105,6 +105,23 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
+      "show": "Dirty Dancing",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-03",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/dirty-dancing-washington-district-of-columbia-10-03-2026/event/Z1r9uZrrZCuZ1AvPkvo",
+      "image": "https://s1.ticketm.net/dam/a/3d1/3dc617ab-77a5-4564-97b0-97b9380913d1_SOURCE"
+    },
+    {
       "show": "Chicago",
       "city": "nyc",
       "venue": "Ambassador Theatre",
@@ -205,6 +222,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-03-2026/event/030064AEEB47189F",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Dirty Dancing",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/dirty-dancing-washington-district-of-columbia-10-03-2026/event/Z1r9uZrrZCuZ1AvPkv8",
+      "image": "https://s1.ticketm.net/dam/a/3d1/3dc617ab-77a5-4564-97b0-97b9380913d1_SOURCE"
     },
     {
       "show": "Wicked (NY)",
@@ -428,6 +462,23 @@
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     },
     {
+      "show": "Dirty Dancing",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-04",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/dirty-dancing-washington-district-of-columbia-10-04-2026/event/Z1r9uZrrZCuZ1AvPkv3",
+      "image": "https://s1.ticketm.net/dam/a/3d1/3dc617ab-77a5-4564-97b0-97b9380913d1_SOURCE"
+    },
+    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -562,6 +613,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70FvZ",
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
+    },
+    {
+      "show": "Dirty Dancing",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-04",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/dirty-dancing-washington-district-of-columbia-10-04-2026/event/Z1r9uZrrZCuZ1AvPkvK",
+      "image": "https://s1.ticketm.net/dam/a/3d1/3dc617ab-77a5-4564-97b0-97b9380913d1_SOURCE"
     },
     {
       "show": "Chicago",
@@ -734,6 +802,23 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-06",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-06-2026/event/Z1r9uZrrZCuZ1AvPdfM",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
+    },
+    {
       "show": "Hamilton (NY)",
       "city": "nyc",
       "venue": "Richard Rodgers Theatre",
@@ -834,6 +919,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-07-2026/event/030064AEEB4918AF",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-07",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-07-2026/event/Z1r9uZrrZCuZ1AvPd4Z",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
     },
     {
       "show": "Hamilton (NY)",
@@ -972,6 +1074,23 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-08",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-08-2026/event/Z1r9uZrrZCuZ1AvP77f",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
+    },
+    {
       "show": "Hamilton (NY)",
       "city": "nyc",
       "venue": "Richard Rodgers Theatre",
@@ -1072,6 +1191,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-09-2026/event/030064AEEB4A18C5",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-09",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-09-2026/event/Z1r9uZrrZCuZ1AvP77p",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
     },
     {
       "show": "Chicago",
@@ -1244,6 +1380,23 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-10",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-10-2026/event/Z1r9uZrrZCuZ1AvP77_",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
+    },
+    {
       "show": "Chicago",
       "city": "nyc",
       "venue": "Ambassador Theatre",
@@ -1344,6 +1497,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-10-2026/event/030064AEEB4A18CA",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-10",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-10-2026/event/Z1r9uZrrZCuZ1AvP779",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
     },
     {
       "show": "Wicked (NY)",
@@ -1550,6 +1720,23 @@
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     },
     {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-11",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-11-2026/event/Z1r9uZrrZCuZ1AvP77O",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
+    },
+    {
       "show": "The Lion King (New York, NY)",
       "city": "nyc",
       "venue": "Minskoff Theatre",
@@ -1684,6 +1871,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7xfJ_",
       "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
+    },
+    {
+      "show": "Maybe Happy Ending",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-11",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/maybe-happy-ending-washington-district-of-columbia-10-11-2026/event/Z1r9uZrrZCuZ1AvP77b",
+      "image": "https://s1.ticketm.net/dam/a/08c/d1e24c70-f2ba-4047-a393-788cdd21c08c_SOURCE"
     },
     {
       "show": "Chicago",
