@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06 12:18 UTC",
+  "updated_at": "2026-10-06 21:57 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -68,6 +68,23 @@
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-10-06-2026/event/Z1r9uZrrZbpZ1Ae7aPz",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-06",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe__M",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
@@ -224,6 +241,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-07",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe__z",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -340,6 +374,23 @@
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-10-08-2026/event/Z1r9uZrrZbpZ1Ae78vo",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-08",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe__y",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
@@ -493,6 +544,23 @@
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-10-09-2026/event/Z1r9uZrrZbpZ1Ae78vY",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-09",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_QZ",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
@@ -802,6 +870,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-10",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_Qv",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -955,6 +1040,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-11",
+      "time": "13:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_Qe",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Aladdin",
       "city": "nyc",
       "venue": "New Amsterdam Theatre",
@@ -1088,6 +1190,23 @@
       "section": "Best Available",
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/the-lion-king-new-york-ny-new-york-new-york-10-11-2026/event/Z1r9uZrrZbpZ1Ae78Ao",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-11",
+      "time": "18:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_Qd",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
@@ -1329,6 +1448,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-13",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_Q7",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -1516,6 +1652,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-14",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_QA",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Aladdin",
       "city": "nyc",
       "venue": "New Amsterdam Theatre",
@@ -1618,6 +1771,23 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
+      "show": "The Lion King",
+      "city": "nyc",
+      "venue": "Minskoff Theatre",
+      "date": "2026-10-15",
+      "time": "19:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_Qk",
+      "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
+    },
+    {
       "show": "Hadestown",
       "city": "nyc",
       "venue": "Walter Kerr Theatre",
@@ -1684,6 +1854,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-10-15-2026/event/030064AEEB4C18E7",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Ford's Theatre presents: Come From Away",
+      "city": "dc",
+      "venue": "Ford's Theatre",
+      "date": "2026-10-16",
+      "time": "14:00",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70xj4",
+      "image": "https://s1.ticketm.net/dam/c/07d/fda8c807-42eb-4b81-9f16-f3a8367e107d_106371_TABLET_LANDSCAPE_LARGE_16_9.jpg"
     }
   ]
 }
