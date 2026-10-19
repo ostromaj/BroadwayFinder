@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 02:04 UTC",
+  "updated_at": "2026-10-19 11:24 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -1533,6 +1533,23 @@
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
     },
     {
+      "show": "Mamma Mia!",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-27",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/mamma-mia-washington-district-of-columbia-10-27-2026/event/Z1r9uZrrZCuZ1AvPzrF",
+      "image": "https://s1.ticketm.net/dam/a/a7e/49752c7d-133d-4ff5-a477-ae98b5e43a7e_SOURCE"
+    },
+    {
       "show": "The Lion King (New York, NY)",
       "city": "nyc",
       "venue": "Minskoff Theatre",
@@ -1735,6 +1752,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4Z_",
       "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
+    },
+    {
+      "show": "Mamma Mia!",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-10-28",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/mamma-mia-washington-district-of-columbia-10-28-2026/event/Z1r9uZrrZCuZ1AvPzra",
+      "image": "https://s1.ticketm.net/dam/a/a7e/49752c7d-133d-4ff5-a477-ae98b5e43a7e_SOURCE"
     }
   ]
 }
