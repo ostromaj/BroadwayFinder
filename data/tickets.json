@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 00:07 UTC",
+  "updated_at": "2026-11-03 13:07 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -1990,6 +1990,23 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/aladdin-new-york-new-york-11-12-2026/event/030064AEEC361E4D",
       "image": "https://s1.ticketm.net/dam/a/517/5ba651a0-33db-401d-8e63-87806e86f517_SOURCE"
+    },
+    {
+      "show": "Mamma Mia!",
+      "city": "dc",
+      "venue": "The National Theatre",
+      "date": "2026-11-12",
+      "time": "19:30",
+      "price": null,
+      "price_display": "Check live price",
+      "lowest_page_price": null,
+      "highest_page_price": null,
+      "prices_found_on_page": 0,
+      "sort_price": 999999,
+      "section": "Best Available",
+      "source": "Ticketmaster",
+      "url": "https://www.ticketmaster.com/mamma-mia-washington-district-of-columbia-11-12-2026/event/Z1r9uZrrZCuZ1AvPzOe",
+      "image": "https://s1.ticketm.net/dam/a/a7e/49752c7d-133d-4ff5-a477-ae98b5e43a7e_SOURCE"
     }
   ]
 }
