@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 04:30 UTC",
+  "updated_at": "2026-11-21 13:48 UTC",
   "days_ahead": 10,
   "tickets": [
     {
@@ -103,23 +103,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_j-",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
-    },
-    {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-21",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vk",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
       "show": "Aladdin",
@@ -239,23 +222,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_jx",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
-    },
-    {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-21",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4v6",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
       "show": "Aladdin",
@@ -496,23 +462,6 @@
       "image": "https://s1.ticketm.net/dam/a/ff9/5e9369f8-04d5-4a67-a77c-f850943fcff9_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-22",
-      "time": "15:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vF",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "The Lion King (New York, NY)",
       "city": "nyc",
       "venue": "Minskoff Theatre",
@@ -700,23 +649,6 @@
       "image": "https://s1.ticketm.net/dam/a/00f/b9aebee0-d1cb-4a5c-8e0e-0ca03fd4d00f_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-23",
-      "time": "19:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4va",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "Chicago",
       "city": "nyc",
       "venue": "Ambassador Theatre",
@@ -834,23 +766,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_jP",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
-    },
-    {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-24",
-      "time": "19:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4v8",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
       "show": "Chicago",
@@ -1040,23 +955,6 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-25",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vo",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "Hamilton (NY)",
       "city": "nyc",
       "venue": "Richard Rodgers Theatre",
@@ -1210,23 +1108,6 @@
       "image": "https://s1.ticketm.net/dam/a/819/0aecd0b6-4be2-40bf-af61-4ff07c110819_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-25",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4v3",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "Hell's Kitchen",
       "city": "dc",
       "venue": "The National Theatre",
@@ -1378,23 +1259,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_jI",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
-    },
-    {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-27",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vf",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
       "show": "Aladdin",
@@ -1567,23 +1431,6 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-27",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vK",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "Aladdin",
       "city": "nyc",
       "venue": "New Amsterdam Theatre",
@@ -1754,23 +1601,6 @@
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
     },
     {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-28",
-      "time": "14:00",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4v4",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
-    },
-    {
       "show": "Aladdin",
       "city": "nyc",
       "venue": "New Amsterdam Theatre",
@@ -1905,23 +1735,6 @@
       "source": "Ticketmaster",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe_jY",
       "image": "https://s1.ticketm.net/dam/a/7ae/48ba24c8-7e1c-4830-bff1-ad8451b847ae_SOURCE"
-    },
-    {
-      "show": "Hadestown",
-      "city": "nyc",
-      "venue": "Walter Kerr Theatre",
-      "date": "2026-11-28",
-      "time": "19:30",
-      "price": null,
-      "price_display": "Check live price",
-      "lowest_page_price": null,
-      "highest_page_price": null,
-      "prices_found_on_page": 0,
-      "sort_price": 999999,
-      "section": "Best Available",
-      "source": "Ticketmaster",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x4vp",
-      "image": "https://s1.ticketm.net/dam/a/a9b/721f12a2-b8d6-46b2-92dd-c0b03f4ada9b_SOURCE"
     },
     {
       "show": "Aladdin",
